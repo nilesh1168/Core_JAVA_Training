@@ -28,11 +28,12 @@ public class Availability {
 //	public static void main(String[] args) {
 //		Scanner sc = new Scanner(System.in);
 //		
-//		int nos[] = new int[10];
 //		
 //		System.out.println("Enter number of elements in the array :");
 //		int n = sc.nextInt();
 //		
+//		int nos[] = new int[n];
+//
 //		System.out.println("Enter elements: ");
 //		for(int i=0;i<n;i++) {
 //			nos[i] = sc.nextInt();
