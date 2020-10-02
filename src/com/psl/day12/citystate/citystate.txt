@@ -1,0 +1,9 @@
+Visakhapatnam,Andhra Pradesh
+Bangalore,Karnataka
+Mumbai,Maharashtra
+Amaravati,Andhra Pradesh
+Nagpur,Maharashtra
+Mysore,Karnataka
+Pune,Maharashtra
+Chandigarh,Punjab
+Lucknow,Uttar Pradesh
